@@ -13,10 +13,20 @@ O **Encontra CEP** permite localizar endereços a partir de um CEP (Código de E
 
 Para que o programa funcione corretamente, é necessário importar a biblioteca **Gson** para manipulação de arquivos JSON. Você pode obtê-la diretamente no [Maven Repository](https://mvnrepository.com/artifact/com.google.code.gson/gson).
 
+## Execução
+
+Para executar o arquivo já compilado, abra o terminal e use o comando:
+
+```bash
+java -jar EncontraCEP.jar
+```
+
+Este arquivo foi compilado com o **Java 17** em um sistema **Gentoo Linux** utilizando o **IntelliJ IDEA**.
+
 ## Observações
 
 Este programa foi desenvolvido com base no **ConsultaCEP**, apresentado nas aulas de Java da **Alura**.
 
 ### Agradecimentos
 
-Agradecemos à equipe da **Alura** pelo suporte e ensinamentos.
+Agradeço à equipe da [Alura](https://www.alura.com.br) pelo suporte e ensinamentos.
