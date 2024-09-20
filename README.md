@@ -29,4 +29,4 @@ Este programa foi desenvolvido com base no **ConsultaCEP**, apresentado nas aula
 
 ### Agradecimentos
 
-Agradecemos à equipe da **Alura** pelo suporte e ensinamentos.
+Agradecemos à equipe da [Alura](https://www.alura.com.br) pelo suporte e ensinamentos.
